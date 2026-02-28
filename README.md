@@ -12,7 +12,7 @@ English | [简体中文](https://github.com/jiangtian616/JHenTai/blob/master/REA
 
 [Q&A](https://github.com/jiangtian616/JHenTai/wiki/Common-Questions)
 
-## Description
+## Descriptions
 
 A manga app for E-Hentai, supporting Android & iOS & Windows & MacOS & Linux.
 
